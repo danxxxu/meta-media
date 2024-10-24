@@ -1,2 +1,2 @@
-# meta-media
-Course website for Meta Media 2024
+# Meta-Media
+Course website for Meta Media 2024 @ Leiden University
